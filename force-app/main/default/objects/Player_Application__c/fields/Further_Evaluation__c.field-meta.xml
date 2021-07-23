@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Further_Evaluation__c</fullName>
+    <externalId>false</externalId>
+    <label>Further Evaluation</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Not Interest</fullName>
+                <default>false</default>
+                <label>Not Interest</label>
+            </value>
+            <value>
+                <fullName>Interest--but not at this time</fullName>
+                <default>false</default>
+                <label>Interest--but not at this time</label>
+            </value>
+            <value>
+                <fullName>Interest--further evaluation needed</fullName>
+                <default>false</default>
+                <label>Interest--further evaluation needed</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

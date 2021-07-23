@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Adult_Scouts</fullName>
+    <active>true</active>
+    <description>Record type for the Adult scouts</description>
+    <label>Adult Scouts</label>
+    <picklistValues>
+        <picklist>Age__c</picklist>
+        <values>
+            <fullName>20</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>21</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>22</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>23</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>24</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>25</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>26</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>27</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Further_Evaluation__c</picklist>
+        <values>
+            <fullName>Interest--but not at this time</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Interest--further evaluation needed</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Not Interest</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>

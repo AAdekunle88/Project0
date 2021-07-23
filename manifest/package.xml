@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+
+      <types>
+        <members>Agent_Card__c</members>
+            <members>Evaluation__c</members>
+              <members>Official_Bid__c</members>
+                <members>Player_Application__c</members>
+                  <members>	Recommended_Bids__c</members>   
+        <name>CustomObject</name>
+    </types>
+    <version>52.0</version>
+</Package>
