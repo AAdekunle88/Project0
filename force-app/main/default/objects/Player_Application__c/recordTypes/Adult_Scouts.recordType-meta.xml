@@ -39,19 +39,4 @@
             <default>false</default>
         </values>
     </picklistValues>
-    <picklistValues>
-        <picklist>Further_Evaluation__c</picklist>
-        <values>
-            <fullName>Interest--but not at this time</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Interest--further evaluation needed</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Not Interest</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
 </RecordType>
